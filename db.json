@@ -6,7 +6,7 @@
       "email": "admin@opiron.com",
       "password": "$2b$10$M6W3J1WYhs1NlGWOr2NztuustJk2ISDmkSE5EYY93mYe/dd3zpFce",
       "createdAt": "2024-01-15T10:30:00.000Z",
-      "plan": "enterprise",
+      "plan": "premium",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "email": "demo@opiron.com",
       "password": "$2b$10$M6W3J1WYhs1NlGWOr2NztuustJk2ISDmkSE5EYY93mYe/dd3zpFce",
       "createdAt": "2024-01-17T09:15:00.000Z",
-      "plan": "pro",
+      "plan": "teams",
       "status": "active"
     }
   ],

@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001
 
 // Configurar CORS para permitir requests desde el frontend
 server.use(cors({
-  origin: ['http://localhost:3000', 'https://tu-frontend.onrender.com'],
+  origin: ['http://localhost:3000', 'https://api-lyze.onrender.com', 'https://tu-frontend.onrender.com'],
   credentials: true
 }))
 
